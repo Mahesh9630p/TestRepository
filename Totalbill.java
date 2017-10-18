@@ -39,7 +39,7 @@ public class billamount{
 		system.out.println("BILL........." +bill);
 		system.out.println("TAX Cgst....." +Cgst);
 		system.out.println("TAX Sgst....." +Sgst);
-		system.out.println("...................");
+		system.out.println("................");
 		system.out.println("Total Bill...."+Total Bill);
 	}
 }
